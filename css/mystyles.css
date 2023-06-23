@@ -1,0 +1,16 @@
+.experience_position {
+    font-weight: bolder;
+    font-size: larger;
+}
+.experience_company {
+    font-weight: bold;
+    font-size: large;
+    /* font-style: italic; */
+}
+.dates {
+    font-size: small;
+    font-weight: bold;
+}
+.job_description {
+    font-size: 20px;
+}
