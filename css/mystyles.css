@@ -14,3 +14,9 @@
 .job_description {
     font-size: 20px;
 }
+.unformatted {
+    font-weight: normal !important;
+}
+.bold {
+    font-weight: bold;
+}
